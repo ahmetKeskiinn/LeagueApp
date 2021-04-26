@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">League App</string>
+    <string name="teamsButton">Takımları Göster</string>
+    <string name="fixtureButton">Fikstür Görüntüle</string>
+    <string name="darkMode">Karanlık Modu Aç</string>
+    <string name="teamsTop">Takımlar</string>
+    <string name="weeklyMatchFixture">Haftalık Fikstürler</string>
+    <string name="mainActivityTopText">League App</string>
+    <string name="weekNo">. Hafta</string>
+    <string name="ok">Tamam</string>
+    <string name="internet">İlk sefer giriş yaptığınız için lütfen internetinizi açınız. Sonraki girişlerde açılmasına gerek yoktur.</string>
+    <string name="teamFix">Lütfen ilk girişinizde Fikstür Oluştur Butonunu inceleyiniz! Sonraki girişlerinizde ve \"Fikstür Görüntüle\" butonundan sonra bu sahayı kullanabilirsiniz.</string>
+    <string name="wentwrong">Bazı şeyler yanlış gitti. İlk girişiniz ise internetinizin açık olduğunu onaylayıp programı yeniden başlatınız. Eğer ilk girişiniz değil ise programı açıp kapatınız lütfen!</string>
+</resources>

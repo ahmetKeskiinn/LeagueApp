@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">League App</string>
+    <string name="teamsButton">表演隊</string>
+    <string name="fixtureButton">"查看治具 "</string>
+    <string name="darkMode">開啟黑暗模式</string>
+    <string name="teamsTop">隊伍</string>
+    <string name="weeklyMatchFixture">每週固定裝置</string>
+    <string name="mainActivityTopText">League App</string>
+    <string name="weekNo">" 。星期"</string>
+    <string name="ok">好的</string>
+    <string name="internet">請打開您的互聯網以首次登錄。無需為後續條目打開它。</string>
+    <string name="teamFix">請在首次登錄時檢查“創建燈具”按鈕！您可以在下一個條目中以及“查看治具”按鈕之後使用此字段。</string>
+    <string name="wentwrong">有些事情出了問題。如果這是您的首次登錄，請確認您的互聯網已打開並重新啟動該程序。如果這不是您的首次登錄，請打開並關閉該程序！</string>
+</resources>

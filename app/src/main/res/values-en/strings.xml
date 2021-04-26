@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">League App</string>
+    <string name="teamsButton">Show Teams</string>
+    <string name="fixtureButton">Show Fixture</string>
+    <string name="darkMode">Open Dark Mode</string>
+    <string name="teamsTop">Teams</string>
+    <string name="weeklyMatchFixture">Weekly Fixtures</string>
+    <string name="mainActivityTopText">League App</string>
+    <string name="weekNo">. Week</string>
+    <string name="ok">Ok</string>
+    <string name="internet">Please turn on your internet for logging in for the first time. It does not need to be opened for subsequent entries.</string>
+    <string name="teamFix">"Please check the create fixture button when logging in for the first time! You can use this area for the next entry and after the \"Show Fixture\" button. "</string>
+    <string name="wentwrong">"Some things went wrong. If it is your first login, confirm that your internet is open and restart the program. If it is not your first login, please open and close the program! "</string>
+</resources>
