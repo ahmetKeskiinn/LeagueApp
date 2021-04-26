@@ -1,6 +1,6 @@
 # League App
 
->Bu projede;
+>Bu projede(In this project);
 
 * Uygulama Geliştirilme Dili/Teknolojisi: Java/Android
 (Application Development Language / Technology: Java / Android)
